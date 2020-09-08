@@ -6,7 +6,7 @@ Compiling instructions:
 2) cd into the xerxes directory ( Don't forget to git clone the repo)
 3) Input the following command:
 gcc -o xerxes xerxes.c
-4) To run it type ./xerxes
+4) To run it type xerxes www.example.com 80
 
 
 
